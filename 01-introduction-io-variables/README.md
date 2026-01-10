@@ -4,7 +4,7 @@ This folder contains assignments related to basic C# syntax,
 variables, and console input/output.
 
 
-
+```csharp
 using System;
 using System.Collections.Generic;
 using System.Linq;
